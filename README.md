@@ -31,4 +31,4 @@ were able to retrieve all the variable values from the global ```$_SESSION``` va
 This was a simple web application with a few web pages and basic functionalities, but we were able to learn from
 the development process and gain experience with all the tools we utilized.
 
-![people page]()
+![people page](https://github.com/lanyshi/capstone_bloomingheart/blob/main/people.png)
